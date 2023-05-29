@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/addTwoIntegers/addTwoIntegers.iml" filepath="$PROJECT_DIR$/addTwoIntegers/addTwoIntegers.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculateDelayedArrivalTime2651/calculateDelayedArrivalTime2651.iml" filepath="$PROJECT_DIR$/calculateDelayedArrivalTime2651/calculateDelayedArrivalTime2651.iml" />
+      <module fileurl="file://$PROJECT_DIR$/convertNumberToHexadecimal405/convertNumberToHexadecimal.iml" filepath="$PROJECT_DIR$/convertNumberToHexadecimal405/convertNumberToHexadecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/convertTheTemperature2469/convertTheTemperature2469.iml" filepath="$PROJECT_DIR$/convertTheTemperature2469/convertTheTemperature2469.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-solved-tasks.iml" filepath="$PROJECT_DIR$/leetcode-solved-tasks.iml" />
     </modules>
