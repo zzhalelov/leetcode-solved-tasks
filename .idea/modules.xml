@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/addTwoIntegers/addTwoIntegers.iml" filepath="$PROJECT_DIR$/addTwoIntegers/addTwoIntegers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/calculateDelayedArrivalTime2651/calculateDelayedArrivalTime2651.iml" filepath="$PROJECT_DIR$/calculateDelayedArrivalTime2651/calculateDelayedArrivalTime2651.iml" />
-      <module fileurl="file://$PROJECT_DIR$/convertNumberToHexadecimal405/convertNumberToHexadecimal.iml" filepath="$PROJECT_DIR$/convertNumberToHexadecimal405/convertNumberToHexadecimal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/convertTheTemperature2469/convertTheTemperature2469.iml" filepath="$PROJECT_DIR$/convertTheTemperature2469/convertTheTemperature2469.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dayOfWeek1185/dayOfWeek1185.iml" filepath="$PROJECT_DIR$/dayOfWeek1185/dayOfWeek1185.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/addTwoIntegers/addTwoIntegers.iml" filepath="$PROJECT_DIR$/Math/addTwoIntegers/addTwoIntegers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/calculateDelayedArrivalTime2651/calculateDelayedArrivalTime2651.iml" filepath="$PROJECT_DIR$/Math/calculateDelayedArrivalTime2651/calculateDelayedArrivalTime2651.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/convertNumberToHexadecimal405/convertNumberToHexadecimal.iml" filepath="$PROJECT_DIR$/Math/convertNumberToHexadecimal405/convertNumberToHexadecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/convertTheTemperature2469/convertTheTemperature2469.iml" filepath="$PROJECT_DIR$/Math/convertTheTemperature2469/convertTheTemperature2469.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/dayOfWeek1185/dayOfWeek1185.iml" filepath="$PROJECT_DIR$/Math/dayOfWeek1185/dayOfWeek1185.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-solved-tasks.iml" filepath="$PROJECT_DIR$/leetcode-solved-tasks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/squareRoot69/squareRoot69.iml" filepath="$PROJECT_DIR$/squareRoot69/squareRoot69.iml" />
-      <module fileurl="file://$PROJECT_DIR$/toLowerCase/toLowerCase.iml" filepath="$PROJECT_DIR$/toLowerCase/toLowerCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/squareRoot69/squareRoot69.iml" filepath="$PROJECT_DIR$/Math/squareRoot69/squareRoot69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/toLowerCase/toLowerCase.iml" filepath="$PROJECT_DIR$/String/toLowerCase/toLowerCase.iml" />
     </modules>
   </component>
 </project>
