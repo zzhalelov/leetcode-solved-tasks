@@ -1,6 +1,5 @@
 import java.time.DayOfWeek;
 import java.time.LocalDate;
-import java.util.Calendar;
 
 
 public class Solution {
